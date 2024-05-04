@@ -6,11 +6,13 @@ PODS:
   - RxRelay (6.5.0):
     - RxSwift (= 6.5.0)
   - RxSwift (6.5.0)
+  - SnapKit (5.7.1)
 
 DEPENDENCIES:
   - Alamofire
   - RxCocoa (= 6.5.0)
   - RxSwift (= 6.5.0)
+  - SnapKit
 
 SPEC REPOS:
   trunk:
@@ -18,13 +20,15 @@ SPEC REPOS:
     - RxCocoa
     - RxRelay
     - RxSwift
+    - SnapKit
 
 SPEC CHECKSUMS:
   Alamofire: f36a35757af4587d8e4f4bfa223ad10be2422b8c
   RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
   RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
   RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
 
-PODFILE CHECKSUM: a16faba5d4a9fe7e73b317289b43ebd1ee323d33
+PODFILE CHECKSUM: 68087cb99225417afb780d514b33a65283b9521b
 
 COCOAPODS: 1.15.2
